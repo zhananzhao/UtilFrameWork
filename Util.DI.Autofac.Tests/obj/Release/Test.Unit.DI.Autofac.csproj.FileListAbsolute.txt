@@ -1,0 +1,14 @@
+D:\河西软件云平台\Framework\Util\Core\Test.Unit.DI.Autofac\obj\Release\Test.Unit.DI.Autofac.csprojResolveAssemblyReference.cache
+D:\河西软件云平台\Framework\Util\Core\Test.Unit.DI.Autofac\bin\Release\Test.Unit.DI.Autofac.dll
+D:\河西软件云平台\Framework\Util\Core\Test.Unit.DI.Autofac\bin\Release\Test.Unit.DI.Autofac.pdb
+D:\河西软件云平台\Framework\Util\Core\Test.Unit.DI.Autofac\bin\Release\Util.DI.Autofac.dll
+D:\河西软件云平台\Framework\Util\Core\Test.Unit.DI.Autofac\bin\Release\Autofac.dll
+D:\河西软件云平台\Framework\Util\Core\Test.Unit.DI.Autofac\bin\Release\Util.DI.Autofac.xml
+D:\河西软件云平台\Framework\Util\Core\Test.Unit.DI.Autofac\bin\Release\Autofac.xml
+D:\河西软件云平台\Framework\Util\Core\Test.Unit.DI.Autofac\obj\Release\Test.Unit.DI.Autofac.dll
+D:\河西软件云平台\Framework\Util\Core\Test.Unit.DI.Autofac\obj\Release\Test.Unit.DI.Autofac.pdb
+D:\Yun\TestBin\Test.Unit.DI.Autofac.dll
+D:\Yun\TestBin\Test.Unit.DI.Autofac.pdb
+D:\Yun\Framework\Util\Core\Test.Unit.DI.Autofac\obj\Release\Test.Unit.DI.Autofac.csprojResolveAssemblyReference.cache
+D:\Yun\Framework\Util\Core\Test.Unit.DI.Autofac\obj\Release\Test.Unit.DI.Autofac.dll
+D:\Yun\Framework\Util\Core\Test.Unit.DI.Autofac\obj\Release\Test.Unit.DI.Autofac.pdb

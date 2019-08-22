@@ -1,0 +1,14 @@
+D:\Book\Action\Util\Framework\Release\Util.Uploaders.WebUploader.XML
+D:\Book\Action\Util\Framework\Release\Util.Uploaders.WebUploader.dll
+D:\Book\Action\Util\Framework\Release\Util.Uploaders.WebUploader.pdb
+D:\Book\Action\Util\Framework\Util\Util.Uploaders.WebUploader\obj\Debug\Util.Uploaders.WebUploader.csprojResolveAssemblyReference.cache
+D:\Book\Action\Util\Framework\Util\Util.Uploaders.WebUploader\obj\Debug\Util.Uploaders.WebUploader.dll
+D:\Book\Action\Util\Framework\Util\Util.Uploaders.WebUploader\obj\Debug\Util.Uploaders.WebUploader.pdb
+D:\Util框架\Release\Util.Uploaders.WebUploader.XML
+D:\Util框架\Release\Util.Uploaders.WebUploader.dll
+D:\Util框架\Release\Util.Uploaders.WebUploader.pdb
+D:\Util框架\Util\Util.Uploaders.WebUploader\obj\Debug\Util.Uploaders.WebUploader.dll
+D:\Util框架\Util\Util.Uploaders.WebUploader\obj\Debug\Util.Uploaders.WebUploader.pdb
+D:\Util框架\Util\Util.Uploaders.WebUploader\obj\Debug\Util.Uploaders.WebUploader.csprojAssemblyReference.cache
+D:\Util框架\Util\Util.Uploaders.WebUploader\obj\Debug\Util.Uploaders.WebUploader.csproj.CoreCompileInputs.cache
+D:\Util框架\Util\Util.Uploaders.WebUploader\obj\Debug\Util.Uploaders.WebUploader.csproj.CopyComplete

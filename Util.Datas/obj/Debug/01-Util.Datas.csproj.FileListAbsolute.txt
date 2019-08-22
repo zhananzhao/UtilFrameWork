@@ -1,0 +1,14 @@
+D:\Book\Action\Util\Framework\Release\Util.Datas.XML
+D:\Book\Action\Util\Framework\Release\Util.Datas.dll
+D:\Book\Action\Util\Framework\Release\Util.Datas.pdb
+D:\Book\Action\Util\Framework\Util\Util.Datas\obj\Debug\01-Util.Datas.csprojResolveAssemblyReference.cache
+D:\Book\Action\Util\Framework\Util\Util.Datas\obj\Debug\Util.Datas.dll
+D:\Book\Action\Util\Framework\Util\Util.Datas\obj\Debug\Util.Datas.pdb
+D:\Util框架\Util\Util.Datas\obj\Debug\Util.Datas.dll
+D:\Util框架\Util\Util.Datas\obj\Debug\Util.Datas.pdb
+D:\Util框架\Release\Util.Datas.XML
+D:\Util框架\Release\Util.Datas.dll
+D:\Util框架\Release\Util.Datas.pdb
+D:\Util框架\Util\Util.Datas\obj\Debug\01-Util.Datas.csprojAssemblyReference.cache
+D:\Util框架\Util\Util.Datas\obj\Debug\01-Util.Datas.csproj.CoreCompileInputs.cache
+D:\Util框架\Util\Util.Datas\obj\Debug\01-Util.Datas.csproj.CopyComplete

@@ -1,0 +1,15 @@
+D:\Book\Action\Util\Framework\Release\Util.Datas.Ef.XML
+D:\Book\Action\Util\Framework\Release\Util.Datas.Ef.dll
+D:\Book\Action\Util\Framework\Release\Util.Datas.Ef.pdb
+D:\Book\Action\Util\Framework\Util\Util.Datas.Ef\obj\Debug\03-Util.Datas.Ef.csprojResolveAssemblyReference.cache
+D:\Book\Action\Util\Framework\Util\Util.Datas.Ef\obj\Debug\Util.Datas.Ef.dll
+D:\Book\Action\Util\Framework\Util\Util.Datas.Ef\obj\Debug\Util.Datas.Ef.pdb
+D:\Util框架\Util\Util.Datas.Ef\obj\Debug\Util.Datas.Ef.dll
+D:\Util框架\Util\Util.Datas.Ef\obj\Debug\Util.Datas.Ef.pdb
+D:\Util框架\Release\Util.Datas.Ef.dll.config
+D:\Util框架\Release\Util.Datas.Ef.XML
+D:\Util框架\Release\Util.Datas.Ef.dll
+D:\Util框架\Release\Util.Datas.Ef.pdb
+D:\Util框架\Util\Util.Datas.Ef\obj\Debug\03-Util.Datas.Ef.csprojAssemblyReference.cache
+D:\Util框架\Util\Util.Datas.Ef\obj\Debug\03-Util.Datas.Ef.csproj.CoreCompileInputs.cache
+D:\Util框架\Util\Util.Datas.Ef\obj\Debug\03-Util.Datas.Ef.csproj.CopyComplete

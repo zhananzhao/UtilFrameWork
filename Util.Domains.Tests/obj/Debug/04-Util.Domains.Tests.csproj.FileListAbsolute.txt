@@ -1,0 +1,16 @@
+D:\Book\Action\Util\Framework\Util\Util.Domains.Tests\obj\Debug\04-Util.Domains.Tests.csprojResolveAssemblyReference.cache
+D:\Book\Action\Util\Framework\Util\Util.Domains.Tests\obj\Debug\Util.Domains.Tests.TestDomainResource.resources
+D:\Book\Action\Util\Framework\Util\Util.Domains.Tests\obj\Debug\04-Util.Domains.Tests.csproj.GenerateResource.Cache
+D:\Book\Action\Util\Framework\Util\Util.Domains.Tests\obj\Debug\Util.Domains.Tests.dll
+D:\Book\Action\Util\Framework\Util\Util.Domains.Tests\obj\Debug\Util.Domains.Tests.pdb
+D:\Book\Action\Util\Framework\TestBin\Util.Domains.Tests.dll
+D:\Book\Action\Util\Framework\TestBin\Util.Domains.Tests.pdb
+D:\Util框架\Util\Util.Domains.Tests\obj\Debug\Util.Domains.Tests.TestDomainResource.resources
+D:\Util框架\Util\Util.Domains.Tests\obj\Debug\04-Util.Domains.Tests.csproj.GenerateResource.Cache
+D:\Util框架\Util\Util.Domains.Tests\obj\Debug\Util.Domains.Tests.dll
+D:\Util框架\Util\Util.Domains.Tests\obj\Debug\Util.Domains.Tests.pdb
+D:\Util框架\Util\Util.Domains.Tests\obj\Debug\04-Util.Domains.Tests.csprojAssemblyReference.cache
+D:\Util框架\Util\Util.Domains.Tests\obj\Debug\04-Util.Domains.Tests.csproj.CoreCompileInputs.cache
+D:\Util框架\TestBin\Util.Domains.Tests.dll
+D:\Util框架\TestBin\Util.Domains.Tests.pdb
+D:\Util框架\Util\Util.Domains.Tests\obj\Debug\04-Util.Domains.Tests.csproj.CopyComplete

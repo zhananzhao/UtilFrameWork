@@ -1,0 +1,13 @@
+D:\Book\Action\Util\Framework\Util\Util.DI.Autofac.Tests\obj\Debug\02-Util.DI.Autofac.Tests.csprojResolveAssemblyReference.cache
+D:\Book\Action\Util\Framework\Util\Util.DI.Autofac.Tests\obj\Debug\Util.DI.Autofac.Tests.dll
+D:\Book\Action\Util\Framework\TestBin\Util.DI.Autofac.Tests.dll
+D:\Book\Action\Util\Framework\TestBin\Util.DI.Autofac.Tests.pdb
+D:\Book\Action\Util\Framework\Util\Util.DI.Autofac.Tests\obj\Debug\Util.DI.Autofac.Tests.pdb
+D:\Util框架\TestBin\Util.DI.Autofac.Tests.dll.config
+D:\Util框架\TestBin\Util.DI.Autofac.Tests.dll
+D:\Util框架\TestBin\Util.DI.Autofac.Tests.pdb
+D:\Util框架\Util\Util.DI.Autofac.Tests\obj\Debug\Util.DI.Autofac.Tests.dll
+D:\Util框架\Util\Util.DI.Autofac.Tests\obj\Debug\Util.DI.Autofac.Tests.pdb
+D:\Util框架\Util\Util.DI.Autofac.Tests\obj\Debug\02-Util.DI.Autofac.Tests.csprojAssemblyReference.cache
+D:\Util框架\Util\Util.DI.Autofac.Tests\obj\Debug\02-Util.DI.Autofac.Tests.csproj.CoreCompileInputs.cache
+D:\Util框架\Util\Util.DI.Autofac.Tests\obj\Debug\02-Util.DI.Autofac.Tests.csproj.CopyComplete

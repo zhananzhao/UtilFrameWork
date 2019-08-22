@@ -1,0 +1,16 @@
+D:\Book\Action\Util\Framework\Util\Util.Tests\obj\Debug\01-Util.Tests.csprojResolveAssemblyReference.cache
+D:\Book\Action\Util\Framework\Util\Util.Tests\obj\Debug\Util.Tests.Resources.TestCoreResource.resources
+D:\Book\Action\Util\Framework\Util\Util.Tests\obj\Debug\01-Util.Tests.csproj.GenerateResource.Cache
+D:\Book\Action\Util\Framework\Util\Util.Tests\obj\Debug\Util.Tests.dll
+D:\Book\Action\Util\Framework\Util\Util.Tests\obj\Debug\Util.Tests.pdb
+D:\Book\Action\Util\Framework\TestBin\Util.Tests.dll
+D:\Book\Action\Util\Framework\TestBin\Util.Tests.pdb
+D:\Util框架\Util\Util.Tests\obj\Debug\Util.Tests.Resources.TestCoreResource.resources
+D:\Util框架\Util\Util.Tests\obj\Debug\01-Util.Tests.csproj.GenerateResource.Cache
+D:\Util框架\Util\Util.Tests\obj\Debug\Util.Tests.dll
+D:\Util框架\Util\Util.Tests\obj\Debug\Util.Tests.pdb
+D:\Util框架\TestBin\Util.Tests.dll
+D:\Util框架\TestBin\Util.Tests.pdb
+D:\Util框架\Util\Util.Tests\obj\Debug\01-Util.Tests.csprojAssemblyReference.cache
+D:\Util框架\Util\Util.Tests\obj\Debug\01-Util.Tests.csproj.CoreCompileInputs.cache
+D:\Util框架\Util\Util.Tests\obj\Debug\01-Util.Tests.csproj.CopyComplete

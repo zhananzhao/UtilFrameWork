@@ -1,0 +1,12 @@
+D:\Book\Action\Util\Framework\Util\Util.Datas.Tests\obj\Debug\05-Util.Datas.Tests.csprojResolveAssemblyReference.cache
+D:\Book\Action\Util\Framework\Util\Util.Datas.Tests\obj\Debug\Util.Datas.Tests.dll
+D:\Book\Action\Util\Framework\Util\Util.Datas.Tests\obj\Debug\Util.Datas.Tests.pdb
+D:\Book\Action\Util\Framework\TestBin\Util.Datas.Tests.dll
+D:\Book\Action\Util\Framework\TestBin\Util.Datas.Tests.pdb
+D:\Util框架\Util\Util.Datas.Tests\obj\Debug\Util.Datas.Tests.dll
+D:\Util框架\Util\Util.Datas.Tests\obj\Debug\Util.Datas.Tests.pdb
+D:\Util框架\Util\Util.Datas.Tests\obj\Debug\05-Util.Datas.Tests.csprojAssemblyReference.cache
+D:\Util框架\Util\Util.Datas.Tests\obj\Debug\05-Util.Datas.Tests.csproj.CoreCompileInputs.cache
+D:\Util框架\TestBin\Util.Datas.Tests.dll
+D:\Util框架\TestBin\Util.Datas.Tests.pdb
+D:\Util框架\Util\Util.Datas.Tests\obj\Debug\05-Util.Datas.Tests.csproj.CopyComplete

@@ -1,0 +1,7 @@
+D:\Yun\Framework\TestBin\Test.Unit.Webs.dll
+D:\Yun\Framework\TestBin\Test.Unit.Webs.pdb
+D:\Yun\TestBin\Test.Unit.Webs.dll
+D:\Yun\TestBin\Test.Unit.Webs.pdb
+D:\Yun\Framework\Util\Web\Test.Unit.Webs\obj\Debug\Test.Unit.Webs.csprojResolveAssemblyReference.cache
+D:\Yun\Framework\Util\Web\Test.Unit.Webs\obj\Debug\Test.Unit.Webs.dll
+D:\Yun\Framework\Util\Web\Test.Unit.Webs\obj\Debug\Test.Unit.Webs.pdb

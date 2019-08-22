@@ -1,0 +1,15 @@
+D:\Book\Action\Util\Framework\Release\Util.Datas.SqlServer.XML
+D:\Book\Action\Util\Framework\Release\Util.Datas.SqlServer.dll
+D:\Book\Action\Util\Framework\Release\Util.Datas.SqlServer.pdb
+D:\Book\Action\Util\Framework\Util\Util.Datas.SqlServer\obj\Debug\04-Util.Datas.SqlServer.csprojResolveAssemblyReference.cache
+D:\Book\Action\Util\Framework\Util\Util.Datas.SqlServer\obj\Debug\Util.Datas.SqlServer.dll
+D:\Book\Action\Util\Framework\Util\Util.Datas.SqlServer\obj\Debug\Util.Datas.SqlServer.pdb
+D:\Util框架\Util\Util.Datas.SqlServer\obj\Debug\Util.Datas.SqlServer.dll
+D:\Util框架\Util\Util.Datas.SqlServer\obj\Debug\Util.Datas.SqlServer.pdb
+D:\Util框架\Release\Util.Datas.SqlServer.dll.config
+D:\Util框架\Release\Util.Datas.SqlServer.XML
+D:\Util框架\Release\Util.Datas.SqlServer.dll
+D:\Util框架\Release\Util.Datas.SqlServer.pdb
+D:\Util框架\Util\Util.Datas.SqlServer\obj\Debug\04-Util.Datas.SqlServer.csprojAssemblyReference.cache
+D:\Util框架\Util\Util.Datas.SqlServer\obj\Debug\04-Util.Datas.SqlServer.csproj.CoreCompileInputs.cache
+D:\Util框架\Util\Util.Datas.SqlServer\obj\Debug\04-Util.Datas.SqlServer.csproj.CopyComplete

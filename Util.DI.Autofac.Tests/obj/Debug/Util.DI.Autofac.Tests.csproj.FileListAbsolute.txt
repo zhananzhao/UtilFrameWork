@@ -1,0 +1,7 @@
+D:\Yun\Framework\Util\Core\Test.Unit.DI.Autofac\obj\Debug\Util.DI.Autofac.Tests.csprojResolveAssemblyReference.cache
+D:\Yun\Framework\Util\Core\Test.Unit.DI.Autofac\obj\Debug\Util.DI.Autofac.Tests.dll
+D:\Yun\TestBin\Util.DI.Autofac.Tests.dll
+D:\Yun\TestBin\Util.DI.Autofac.Tests.pdb
+D:\Yun\Framework\Util\Core\Util.DI.Autofac.Tests\obj\Debug\Util.DI.Autofac.Tests.csprojResolveAssemblyReference.cache
+D:\Yun\Framework\Util\Core\Util.DI.Autofac.Tests\obj\Debug\Util.DI.Autofac.Tests.dll
+D:\Yun\Framework\Util\Core\Util.DI.Autofac.Tests\obj\Debug\Util.DI.Autofac.Tests.pdb

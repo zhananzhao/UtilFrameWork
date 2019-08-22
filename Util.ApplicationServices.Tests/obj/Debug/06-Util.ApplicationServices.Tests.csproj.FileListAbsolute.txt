@@ -1,0 +1,15 @@
+D:\Book\Action\TestBin\Util.ApplicationServices.Tests.dll
+D:\Book\Action\TestBin\Util.ApplicationServices.Tests.pdb
+D:\Book\Action\Util\Framework\Util\Util.ApplicationServices.Tests\obj\Debug\06-Util.ApplicationServices.Tests.csprojResolveAssemblyReference.cache
+D:\Book\Action\Util\Framework\Util\Util.ApplicationServices.Tests\obj\Debug\Util.ApplicationServices.Tests.dll
+D:\Book\Action\Util\Framework\Util\Util.ApplicationServices.Tests\obj\Debug\Util.ApplicationServices.Tests.pdb
+D:\Book\Action\Util\Framework\TestBin\Util.ApplicationServices.Tests.dll
+D:\Book\Action\Util\Framework\TestBin\Util.ApplicationServices.Tests.pdb
+D:\Util框架\Util\Util.ApplicationServices.Tests\obj\Debug\Util.ApplicationServices.Tests.dll
+D:\Util框架\Util\Util.ApplicationServices.Tests\obj\Debug\Util.ApplicationServices.Tests.pdb
+D:\Util框架\TestBin\Util.ApplicationServices.Tests.dll.config
+D:\Util框架\TestBin\Util.ApplicationServices.Tests.dll
+D:\Util框架\TestBin\Util.ApplicationServices.Tests.pdb
+D:\Util框架\Util\Util.ApplicationServices.Tests\obj\Debug\06-Util.ApplicationServices.Tests.csprojAssemblyReference.cache
+D:\Util框架\Util\Util.ApplicationServices.Tests\obj\Debug\06-Util.ApplicationServices.Tests.csproj.CoreCompileInputs.cache
+D:\Util框架\Util\Util.ApplicationServices.Tests\obj\Debug\06-Util.ApplicationServices.Tests.csproj.CopyComplete

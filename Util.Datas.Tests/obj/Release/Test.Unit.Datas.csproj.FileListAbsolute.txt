@@ -1,0 +1,5 @@
+D:\Yun\TestBin\Test.Unit.Datas.dll
+D:\Yun\TestBin\Test.Unit.Datas.pdb
+D:\Yun\Framework\Util\Data\Test.Unit.Datas\obj\Release\Test.Unit.Datas.csprojResolveAssemblyReference.cache
+D:\Yun\Framework\Util\Data\Test.Unit.Datas\obj\Release\Test.Unit.Datas.dll
+D:\Yun\Framework\Util\Data\Test.Unit.Datas\obj\Release\Test.Unit.Datas.pdb

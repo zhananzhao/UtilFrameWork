@@ -1,0 +1,5 @@
+D:\Yun\TestBin\Util.Domains.Tests.dll
+D:\Yun\Framework\Util\Core\Util.Domains.Tests\obj\Release\Util.Domains.Tests.csprojResolveAssemblyReference.cache
+D:\Yun\Framework\Util\Core\Util.Domains.Tests\obj\Release\Util.Domains.Tests.TestDomainResource.resources
+D:\Yun\Framework\Util\Core\Util.Domains.Tests\obj\Release\Util.Domains.Tests.csproj.GenerateResource.Cache
+D:\Yun\Framework\Util\Core\Util.Domains.Tests\obj\Release\Util.Domains.Tests.dll

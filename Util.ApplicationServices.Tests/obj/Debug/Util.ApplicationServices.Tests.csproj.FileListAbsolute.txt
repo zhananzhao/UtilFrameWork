@@ -1,0 +1,5 @@
+D:\Yun\TestBin\Util.ApplicationServices.Tests.dll
+D:\Yun\TestBin\Util.ApplicationServices.Tests.pdb
+D:\Yun\Framework\Util\Core\Util.ApplicationServices.Tests\obj\Debug\Util.ApplicationServices.Tests.csprojResolveAssemblyReference.cache
+D:\Yun\Framework\Util\Core\Util.ApplicationServices.Tests\obj\Debug\Util.ApplicationServices.Tests.dll
+D:\Yun\Framework\Util\Core\Util.ApplicationServices.Tests\obj\Debug\Util.ApplicationServices.Tests.pdb

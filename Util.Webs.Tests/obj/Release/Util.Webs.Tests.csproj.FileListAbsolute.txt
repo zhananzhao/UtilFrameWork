@@ -1,0 +1,3 @@
+D:\Yun\TestBin\Util.Webs.Tests.dll
+D:\Yun\Framework\Util\Core\Util.Webs.Tests\obj\Release\Util.Webs.Tests.csprojResolveAssemblyReference.cache
+D:\Yun\Framework\Util\Core\Util.Webs.Tests\obj\Release\Util.Webs.Tests.dll

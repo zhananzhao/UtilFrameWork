@@ -1,0 +1,12 @@
+D:\Book\Action\Util\Framework\Util\Util.Webs.EasyUi.Tests\obj\Debug\08-Util.Webs.EasyUi.Tests.csprojResolveAssemblyReference.cache
+D:\Book\Action\Util\Framework\Util\Util.Webs.EasyUi.Tests\obj\Debug\Util.Webs.EasyUi.Tests.dll
+D:\Book\Action\Util\Framework\Util\Util.Webs.EasyUi.Tests\obj\Debug\Util.Webs.EasyUi.Tests.pdb
+D:\Book\Action\Util\Framework\TestBin\Util.Webs.EasyUi.Tests.dll
+D:\Book\Action\Util\Framework\TestBin\Util.Webs.EasyUi.Tests.pdb
+D:\Util框架\Util\Util.Webs.EasyUi.Tests\obj\Debug\Util.Webs.EasyUi.Tests.dll
+D:\Util框架\TestBin\Util.Webs.EasyUi.Tests.dll
+D:\Util框架\TestBin\Util.Webs.EasyUi.Tests.pdb
+D:\Util框架\Util\Util.Webs.EasyUi.Tests\obj\Debug\Util.Webs.EasyUi.Tests.pdb
+D:\Util框架\Util\Util.Webs.EasyUi.Tests\obj\Debug\08-Util.Webs.EasyUi.Tests.csprojAssemblyReference.cache
+D:\Util框架\Util\Util.Webs.EasyUi.Tests\obj\Debug\08-Util.Webs.EasyUi.Tests.csproj.CoreCompileInputs.cache
+D:\Util框架\Util\Util.Webs.EasyUi.Tests\obj\Debug\08-Util.Webs.EasyUi.Tests.csproj.CopyComplete

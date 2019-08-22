@@ -1,0 +1,4 @@
+D:\Yun\Release\Util.Datas.SqlServer.XML
+D:\Yun\Release\Util.Datas.SqlServer.dll
+D:\Yun\Framework\Util\Core\Util.Datas.SqlServer\obj\Release\Util.Datas.SqlServer.csprojResolveAssemblyReference.cache
+D:\Yun\Framework\Util\Core\Util.Datas.SqlServer\obj\Release\Util.Datas.SqlServer.dll

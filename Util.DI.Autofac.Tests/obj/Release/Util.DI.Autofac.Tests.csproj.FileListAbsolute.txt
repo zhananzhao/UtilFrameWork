@@ -1,0 +1,3 @@
+D:\Yun\TestBin\Util.DI.Autofac.Tests.dll
+D:\Yun\Framework\Util\Core\Util.DI.Autofac.Tests\obj\Release\Util.DI.Autofac.Tests.csprojResolveAssemblyReference.cache
+D:\Yun\Framework\Util\Core\Util.DI.Autofac.Tests\obj\Release\Util.DI.Autofac.Tests.dll

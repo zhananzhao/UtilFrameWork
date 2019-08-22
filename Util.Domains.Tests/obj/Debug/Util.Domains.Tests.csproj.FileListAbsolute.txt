@@ -1,0 +1,11 @@
+D:\Yun\Framework\Util\Domain\Util.Domains.Tests\obj\Debug\Util.Domains.Tests.csprojResolveAssemblyReference.cache
+D:\Yun\Framework\Util\Domain\Util.Domains.Tests\obj\Debug\Util.Domains.Tests.TestDomainResource.resources
+D:\Yun\Framework\Util\Domain\Util.Domains.Tests\obj\Debug\Util.Domains.Tests.csproj.GenerateResource.Cache
+D:\Yun\Framework\Util\Domain\Util.Domains.Tests\obj\Debug\Util.Domains.Tests.dll
+D:\Yun\TestBin\Util.Domains.Tests.dll
+D:\Yun\TestBin\Util.Domains.Tests.pdb
+D:\Yun\Framework\Util\Core\Util.Domains.Tests\obj\Debug\Util.Domains.Tests.csprojResolveAssemblyReference.cache
+D:\Yun\Framework\Util\Core\Util.Domains.Tests\obj\Debug\Util.Domains.Tests.TestDomainResource.resources
+D:\Yun\Framework\Util\Core\Util.Domains.Tests\obj\Debug\Util.Domains.Tests.csproj.GenerateResource.Cache
+D:\Yun\Framework\Util\Core\Util.Domains.Tests\obj\Debug\Util.Domains.Tests.dll
+D:\Yun\Framework\Util\Core\Util.Domains.Tests\obj\Debug\Util.Domains.Tests.pdb
